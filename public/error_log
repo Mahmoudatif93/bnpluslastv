@@ -1,0 +1,101 @@
+[05-Jan-2022 13:24:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/bnplusly/public_html/BNplus/vendor/composer/platform_check.php on line 24
+[05-Jan-2022 13:26:54 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/bnplusly/public_html/BNplus/vendor/composer/platform_check.php on line 24
+[13-Feb-2022 21:34:24 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bnplusly/public_html/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 133
+[13-Feb-2022 21:34:28 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bnplusly/public_html/BNplus/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 656
+[22-Mar-2022 14:06:21 Africa/Tripoli] PHP Fatal error:  Trait 'App\Http\Controllers\Dashboard\ApiResourceTrait' not found in /home/bnplusly/public_html/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 19
+[22-Mar-2022 14:08:23 Africa/Tripoli] PHP Fatal error:  Trait 'App\Http\Controllers\Dashboard\ApiResourceTrait' not found in /home/bnplusly/public_html/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 19
+[22-Mar-2022 14:09:18 Africa/Tripoli] PHP Fatal error:  Trait 'App\Http\Controllers\Dashboard\app\Http\Controllers\API\ApiResourceTrait' not found in /home/bnplusly/public_html/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 19
+[23-Mar-2022 14:14:22 Africa/Tripoli] PHP Fatal error:  Cannot redeclare App\Order::cards() in /home/bnplusly/public_html/BNplus/app/Order.php on line 23
+[13-Aug-2022 11:41:11 Africa/Tripoli] PHP Fatal error:  Cannot use empty array elements in arrays in /home/fusofts/bn-plus.ly/BNplus/app/products_order.php on line 22
+[13-Aug-2022 11:44:08 Africa/Tripoli] PHP Fatal error:  Cannot use empty array elements in arrays in /home/fusofts/bn-plus.ly/BNplus/app/products_order.php on line 22
+[13-Aug-2022 11:44:23 Africa/Tripoli] PHP Fatal error:  Cannot use empty array elements in arrays in /home/fusofts/bn-plus.ly/BNplus/app/products_order.php on line 22
+[24-Aug-2022 11:40:45 Africa/Tripoli] PHP Fatal error:  Cannot use App\Carbon\Carbon as Carbon because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/WelcomeController.php on line 12
+[24-Aug-2022 11:41:09 Africa/Tripoli] PHP Fatal error:  Cannot use App\Carbon\Carbon as Carbon because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/WelcomeController.php on line 12
+[24-Aug-2022 11:41:14 Africa/Tripoli] PHP Fatal error:  Cannot use App\Carbon\Carbon as Carbon because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/WelcomeController.php on line 12
+[24-Aug-2022 11:41:27 Africa/Tripoli] PHP Fatal error:  Cannot use App\Carbon\Carbon as Carbon because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/WelcomeController.php on line 11
+[10-Oct-2022 09:11:28 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:11:28 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:11:30 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:11:30 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:11:59 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:11:59 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:12:00 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:12:00 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:13:14 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:13:14 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:14:05 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:14:05 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 09:17:01 Africa/Tripoli] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/fusofts/bn-plus.ly/BNplus/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Oct-2022 09:17:01 Africa/Tripoli] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Oct-2022 10:47:39 UTC] PHP Warning:  require(/home/fusofts/bn-plus.ly/BNplus/vendor/composer/../kreait/clock/src/Clock.php): failed to open stream: No such file or directory in /home/fusofts/bn-plus.ly/BNplus/vendor/composer/autoload_real.php on line 78
+[10-Oct-2022 10:47:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/fusofts/bn-plus.ly/BNplus/vendor/composer/../kreait/clock/src/Clock.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fusofts/bn-plus.ly/BNplus/vendor/composer/autoload_real.php on line 78
+[10-Oct-2022 10:57:49 UTC] PHP Warning:  require(/home/fusofts/bn-plus.ly/BNplus/vendor/composer/../kreait/clock/src/Clock.php): failed to open stream: No such file or directory in /home/fusofts/bn-plus.ly/BNplus/vendor/composer/autoload_real.php on line 78
+[10-Oct-2022 10:57:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/fusofts/bn-plus.ly/BNplus/vendor/composer/../kreait/clock/src/Clock.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fusofts/bn-plus.ly/BNplus/vendor/composer/autoload_real.php on line 78
+[10-Oct-2022 11:04:32 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(426): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(314): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(211): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\Ht in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[10-Oct-2022 11:04:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(426): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(314): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(211): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\Ht in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[10-Oct-2022 11:04:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(426): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(314): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(211): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\Ht in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[10-Oct-2022 13:57:11 Africa/Tripoli] PHP Fatal error:  Cannot use Kreait\Firebase\Contract\Database as Database because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 24
+[10-Oct-2022 14:45:18 Africa/Tripoli] PHP Warning:  Uncaught ErrorException: require(vendor/autoload.php): failed to open stream: No such file or directory in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php:4
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(vendor/...', '/home/fusofts/b...', 4, Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php(4): require()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/composer/ClassLoader.php(571): include('/home/fusofts/b...')
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/fusofts/b...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass- in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 4
+[10-Oct-2022 14:45:18 Africa/Tripoli] PHP Fatal error:  main(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/Dashboard/CompanyController.php on line 4
+[18-Oct-2022 15:29:43 Africa/Tripoli] PHP Fatal error:  Redefinition of parameter $error in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/API/ApiResourceTrait.php on line 8
+[20-Oct-2022 09:08:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/frame in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[20-Oct-2022 09:08:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/fusofts/bn-plus.ly/BNplus/bootstrap/app.php on line 44
+[20-Oct-2022 09:09:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/frame in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[20-Oct-2022 09:09:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/frame in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[20-Oct-2022 10:47:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(426): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(314): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(211): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\Ht in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[20-Oct-2022 10:47:30 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(426): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(314): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(211): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\Ht in /home/fusofts/bn-plus.ly/BNplus/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[14-Jan-2023 12:47:58 Africa/Tripoli] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/fusofts/bn-plus.ly/BNplus/app/Http/Controllers/API/OrderController.php on line 22

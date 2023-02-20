@@ -1,0 +1,4 @@
+[27-Oct-2022 13:57:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/fusofts/bn-plus.ly/BNplus/app/Cards.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fusofts/bn-plus.ly/BNplus/app/Cards.php on line 7
